@@ -1,4 +1,4 @@
-![Screenshot 2025-01-25 184045](https://github.com/user-attachments/assets/7c92044a-e094-4b42-9bc9-11723b263f86)
+![Screenshot 2025-01-25 184610](https://github.com/user-attachments/assets/f6f29b5a-8e42-4f17-aedc-7d62b74d1915)
 
 Project Description: Simple Real-Time Chat Application
 This project is a Simple Real-Time Chat Application built using modern web technologies, designed to demonstrate real-time communication over WebSockets. The application allows users to exchange messages instantly through a responsive chat interface.
